@@ -1,5 +1,3 @@
-altair
-pandas
-streamlit
-streamlit-chat==0.0.2.2
-openai
+streamlit==1.13.0
+streamlit-chat==0.0.2.1
+openai==0.26.4
